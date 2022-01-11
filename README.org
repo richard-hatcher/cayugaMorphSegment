@@ -1,4 +1,4 @@
 #+title: cayugaMorphSegment
 #+author: Richard Hatcher
 
-* Corpus of Cayuga Morphological Segmentation
+** Corpus of Cayuga Morphological Segmentation
